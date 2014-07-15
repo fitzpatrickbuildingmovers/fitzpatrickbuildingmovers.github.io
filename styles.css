@@ -16,7 +16,15 @@ body {
 }
 
 
+footer aside.social {
+  float: right;
+  margin-top: -1.5em;
+}
 
+footer aside.social img {
+  height: 24px;
+  opacity: 0.75;
+}
 
 
 h1.telephone  {
