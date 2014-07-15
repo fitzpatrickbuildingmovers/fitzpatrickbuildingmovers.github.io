@@ -1,5 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Francois+One);
 
+
 body {
 	background: #111;
 	margin:0;
@@ -13,6 +14,48 @@ body {
 	margin:0;
 	padding:0;
 }
+
+
+
+
+
+h1.telephone  {
+    color:  #fff;
+     text-align:  center;
+}
+.footer-content aside  {
+    color:  #000;
+     text-align:  center;
+     font-size:  1.5em;
+}
+
+article {
+    padding-bottom: 0px;
+    margin-bottom: 15px;
+}
+.fpgreen  {
+    color:  #558a5e;
+}
+.services_provided  {
+    list-style-type:  none;
+}
+.services_provided li  {
+    float:  left;
+    margin-top: .5em;
+    margin-bottom:  .5em;
+    margin-left:  1.25em;
+    font-size:  1.2em;
+}
+
+
+
+
+
+
+
+
+
+
 
 /** element defaults **/
 table {
