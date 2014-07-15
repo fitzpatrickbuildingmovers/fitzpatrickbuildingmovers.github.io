@@ -21,4 +21,8 @@ img:not(:first-child) {
   display: none;
 }
 
+footer {
+  display: none;
+}
+
 }
