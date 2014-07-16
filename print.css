@@ -17,7 +17,8 @@ body, #body, header, nav {
   border-color: #000 !important;
 }
 
-img:not(:first-child) {
+img:not(:first-child),
+.slickjs {
   display: none;
 }
 
